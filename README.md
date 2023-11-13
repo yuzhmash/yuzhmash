@@ -1,4 +1,4 @@
-<a style="text-decoration: none" href="https://github.com/danulqua">
+<a style="text-decoration: none" href="https://github.com/yuzhmash">
   <img src="https://github.com/yuzhmash/coffe-house-project/blob/main/src/img/main-img.png" alt="header_image">
 </a>
 
