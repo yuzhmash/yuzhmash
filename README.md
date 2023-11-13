@@ -32,8 +32,8 @@ I have a passion for developing and improving my skills so that I can invent coo
   📊 Github Stats
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=danulqua&show_icons=true&theme=dark&icon_color=46D8A0&hide_border&bg_color:1A1A1A" alt="danulqua's Github stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danulqua&layout=compact&theme=dark&hide_border&bg_color:1A1A1A" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=yuzhmash&show_icons=true&theme=dark&icon_color=46D8A0&hide_border&bg_color:1A1A1A" alt="danulqua's Github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhmash&layout=compact&theme=dark&hide_border&bg_color:1A1A1A" alt="Top Langs">
 
 <h2>
   ✉️ Contacts
