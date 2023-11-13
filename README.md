@@ -6,7 +6,7 @@
   Hi there! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
 </h1>
 
-I'm Danylo Zalizchuk, full-stack developer from Ukraine. I mainly work with frontend, experienced in developing SPAs using Vue and React. Also I've worked on backend for my applications.  
+I'm Maksim Shcherbina, front-end developer. I mainly work with frontend, experienced in developing SPAs using React. Also I've worked on backend for my applications.  
 I have a passion for developing and improving my skills so that I can invent cool apps that can solve specific user problems.
 
 <h2>
