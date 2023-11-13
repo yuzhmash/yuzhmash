@@ -32,7 +32,7 @@ I have a passion for developing and improving my skills so that I can invent coo
   📊 Github Stats
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuzhmash&show_icons=true&theme=dark&icon_color=46D8A0&hide_border&bg_color:1A1A1A" alt="yuzhmash's Github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=yuzhmsh&show_icons=true&theme=dark&icon_color=46D8A0&hide_border&bg_color:1A1A1A" alt="yuzhmash's Github stats">
 
 <h2>
   ✉️ Contacts
