@@ -1,5 +1,5 @@
 <a style="text-decoration: none" href="https://github.com/danulqua">
-  <img src="https://user-images.githubusercontent.com/38916225/227007844-a89113d9-e714-4743-9643-667078009b0f.jpg" alt="header_image">
+  <img src="[https://user-images.githubusercontent.com/38916225/227007844-a89113d9-e714-4743-9643-667078009b0f.jpg](https://github.com/yuzhmash/coffe-house-project/blob/main/src/img/main-img.png)" alt="header_image">
 </a>
 
 <h1 align="center"> 
